@@ -1,6 +1,5 @@
 aiohttp
 anytree
-aria2p
 asgiref
 asyncio
 beautifulsoup4
@@ -29,14 +28,15 @@ pyrogram
 python-dotenv
 python-magic
 python-telegram-bot
-qbittorrent-api
 requests
-speedtest-cli
 telegraph
 tenacity
 tgCrypto
 urllib3
 xattr
-yt-dlp
 waybackpy
 playwright
+git+https://github.com/rajanvibes/required01
+git+https://github.com/rajanvibes/required02
+git+https://github.com/rajanvibes/required03
+git+https://github.com/rajanvibes/required04
